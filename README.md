@@ -1,16 +1,26 @@
-## Hi there 👋
+<!-- Perfil README para github.com/gustavoastudilloudla -->
 
-<!--
-**gustavoastudilloudla/gustavoastudilloudla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">¡Hola, soy Gustavo Astudillo P.!</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+Ingeniero en Gestión Logística • Estudiante de Magíster en Data Science @ UDLA  
+Apasionado por los datos, la optimización de rutas y la buena música.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Sobre mí
+- Actualmente profundizo en **Python / R**, estadística y machine learning.  
+- Me interesa traducir problemas reales de logística en soluciones algorítmicas reproducibles.  
+- Fuera del teclado, disfruto componer y tocar música rock.
+
+### ¿Qué encontrarás aquí?
+| Área | Contenido habitual |
+|------|--------------------|
+| **Data Science** | 
+| **Logística** | 
+| **Academia** | 
+
+### 📚 En este momento aprendiendo
+`Phyton` 
+---
