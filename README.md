@@ -12,7 +12,7 @@ Apasionado por los datos, la optimización de rutas y la buena música.
 ### Sobre mí
 - Actualmente profundizo en **Python / R**, estadística y machine learning.  
 - Me interesa traducir problemas reales de logística en soluciones algorítmicas reproducibles.  
-- Fuera del teclado, disfruto componer y tocar música rock.
+- Fuera del teclado, disfruto componer y tocar música.
 
 ### ¿Qué encontrarás aquí?
 | Área | Contenido habitual |
